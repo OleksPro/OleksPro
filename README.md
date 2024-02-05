@@ -18,8 +18,7 @@ I want to become a Full Stack Python🐍 developer.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 My hobbies:<br>
-🏋️‍ Workout<br>
-📚 Books (Overwhelmingly self-development books)<br>
+📚 Books<br>
 🏕 Travel<br>
 💨 Hookah<br>
 🥗 Cooking<br>
